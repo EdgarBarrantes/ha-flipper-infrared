@@ -1,0 +1,20 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "This Flipper is already set up."
+    },
+    "error": {
+      "cannot_connect": "No Flipper command line on that port. Close qFlipper and any Flipper app using USB, and check the cable carries data."
+    },
+    "step": {
+      "user": {
+        "title": "Flipper Zero",
+        "description": "Connect the Flipper by USB, unlocked, on its main screen. Its infrared LED (the top edge) must face the devices it will control.",
+        "data": {
+          "port": "Serial port"
+        }
+      }
+    }
+  },
+  "entity": {}
+}
